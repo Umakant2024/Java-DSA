@@ -6,9 +6,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Umakant2024/Java-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Umakant2024/Java-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
