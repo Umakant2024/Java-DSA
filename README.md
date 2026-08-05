@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Umakant2024/Java-DSA/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Umakant2024/Java-DSA/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Umakant2024/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Umakant2024/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Umakant2024/Java-DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
