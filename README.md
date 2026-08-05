@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Umakant2024/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Umakant2024/Java-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3866-first-unique-even-element](https://github.com/Umakant2024/Java-DSA/tree/master/3866-first-unique-even-element) |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/Umakant2024/Java-DSA/tree/master/3866-first-unique-even-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Umakant2024/Java-DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
