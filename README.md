@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Umakant2024/Java-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3866-first-unique-even-element](https://github.com/Umakant2024/Java-DSA/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
+| [3866-first-unique-even-element](https://github.com/Umakant2024/Java-DSA/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/Umakant2024/Java-DSA/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
