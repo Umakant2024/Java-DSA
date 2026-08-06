@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Umakant2024/Java-DSA/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Umakant2024/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Umakant2024/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Umakant2024/Java-DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Umakant2024/Java-DSA/tree/master/0342-power-of-four) |
 ## Binary Search
