@@ -55,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Umakant2024/Java-DSA/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Umakant2024/Java-DSA/tree/master/0189-rotate-array) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Umakant2024/Java-DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
