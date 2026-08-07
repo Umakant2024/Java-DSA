@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Umakant2024/Java-DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Umakant2024/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Umakant2024/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Umakant2024/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Umakant2024/Java-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3866-first-unique-even-element](https://github.com/Umakant2024/Java-DSA/tree/master/3866-first-unique-even-element) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Umakant2024/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Umakant2024/Java-DSA/tree/master/0061-rotate-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Umakant2024/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
