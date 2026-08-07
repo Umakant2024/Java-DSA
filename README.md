@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Umakant2024/Java-DSA/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Umakant2024/Java-DSA/tree/master/0189-rotate-array) |
+| [0680-valid-palindrome-ii](https://github.com/Umakant2024/Java-DSA/tree/master/0680-valid-palindrome-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Umakant2024/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Umakant2024/Java-DSA/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Umakant2024/Java-DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
