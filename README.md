@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Umakant2024/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Umakant2024/Java-DSA/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/Umakant2024/Java-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Umakant2024/Java-DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Umakant2024/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Umakant2024/Java-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Umakant2024/Java-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Umakant2024/Java-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
 | [3866-first-unique-even-element](https://github.com/Umakant2024/Java-DSA/tree/master/3866-first-unique-even-element) |
 ## Math
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Umakant2024/Java-DSA/tree/master/0169-majority-element) |
 | [3866-first-unique-even-element](https://github.com/Umakant2024/Java-DSA/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
@@ -78,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Umakant2024/Java-DSA/tree/master/0680-valid-palindrome-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Umakant2024/Java-DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Umakant2024/Java-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
