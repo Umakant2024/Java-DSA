@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Umakant2024/Java-DSA/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Umakant2024/Java-DSA/tree/master/0342-power-of-four) |
+| [0400-nth-digit](https://github.com/Umakant2024/Java-DSA/tree/master/0400-nth-digit) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Umakant2024/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Umakant2024/Java-DSA/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/Umakant2024/Java-DSA/tree/master/0400-nth-digit) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Umakant2024/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
