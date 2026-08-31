@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Umakant2024/Java-DSA/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Umakant2024/Java-DSA/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/Umakant2024/Java-DSA/tree/master/0400-nth-digit) |
+| [0509-fibonacci-number](https://github.com/Umakant2024/Java-DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Umakant2024/Java-DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Umakant2024/Java-DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Umakant2024/Java-DSA/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Umakant2024/Java-DSA/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Umakant2024/Java-DSA/tree/master/0292-nim-game) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Umakant2024/Java-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
